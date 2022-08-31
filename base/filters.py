@@ -1,5 +1,3 @@
-from dataclasses import fields
-from tkinter import Widget
 import django_filters
 from django_filters import CharFilter
 from django import forms
