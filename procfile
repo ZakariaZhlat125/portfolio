@@ -1,1 +1,2 @@
 
+web: gunicorn zakariaportfolio.wsgi --log-file -
