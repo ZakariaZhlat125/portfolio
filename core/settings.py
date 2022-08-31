@@ -25,8 +25,8 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 SECRET_KEY = 'v*n$imlw6gvcvmtx%u4b13c0yxt3515f=u+$_br^b3k=)imc0-'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
-ALLOWED_HOSTS = ['127.0.0.1','zakariaportfolio.herokuapp.com','www.zakariaportfolio.herokuapp.com']
+DEBUG = True
+ALLOWED_HOSTS = []
 
 
 # Application definition
