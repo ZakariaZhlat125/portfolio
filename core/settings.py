@@ -26,7 +26,7 @@ SECRET_KEY = 'v*n$imlw6gvcvmtx%u4b13c0yxt3515f=u+$_br^b3k=)imc0-'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','https://zakariaportflio.herokuapp.com']
 
 
 # Application definition
